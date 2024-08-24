@@ -30,7 +30,7 @@ A simple GUI application for XOR encryption and decryption of images. Built with
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/MaryamFatima16/Image-Encryption-Tool.git
-    cd Image-XOR-Encryption-Tool
+    cd Image-Encryption-Tool
     ```
 
 2. **Install Required Packages**:
@@ -42,7 +42,7 @@ A simple GUI application for XOR encryption and decryption of images. Built with
 3. **Run the Application**:
     Launch the application with:
     ```sh
-    streamlit run app.py
+    streamlit run image-encryption-tool.py
     ```
 
 ## Usage
