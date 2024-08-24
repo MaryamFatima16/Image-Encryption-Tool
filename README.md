@@ -12,7 +12,7 @@ A simple GUI application for XOR encryption and decryption of images. Built with
 
 <p align="center">
   <img src="screenshots/user-window.png" alt="User Window" width="400"/>
-  <br/><i>Decrypt the image with the same key used for encryption.</i>
+  <br/><i>Image Encryption user window</i>
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@ A simple GUI application for XOR encryption and decryption of images. Built with
 
 <p align="center">
   <img src="screenshots/image-decryption.png" alt="Image Decryption" width="400"/>
-  <br/><i>Upload and view the image to be encrypted.</i>
+  <br/><i>Decrypt the image with the same key used for encryption.</i>
 </p>
 
 ## Installation
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/MaryamFatima16/Image-XOR-Encryption-Tool.git
+    git clone https://github.com/MaryamFatima16/Image-Encryption-Tool.git
     cd Image-XOR-Encryption-Tool
     ```
 
@@ -66,10 +66,6 @@ A simple GUI application for XOR encryption and decryption of images. Built with
 
 - **Key Range**: The key must be an integer between 0 and 255.
 - **File Format**: Encrypted images are saved as binary files (.bin).
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests. For any issues or feature requests, please open an issue in the repository.
 
 ## License
 
