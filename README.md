@@ -4,6 +4,11 @@ A simple GUI application for XOR encryption and decryption of images. Built with
 
 ## Features
 
+## Check Out the Live Website!
+[Visit the Image Encryption Tool](https://maryam-image-encryption-tool.streamlit.app/)
+
+## Features
+
 - **Image Encryption & Decryption**: XOR-based encryption for images.
 - **Simple Key Input**: Enter a key (0-255) for both encryption and decryption.
 - **Download & Upload**: Save encrypted files and decrypt them later.
