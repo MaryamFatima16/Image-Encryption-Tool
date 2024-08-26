@@ -49,7 +49,7 @@ A simple GUI application for XOR encryption and decryption of images. Built with
     ```sh
     streamlit run image-encryption-tool.py
 
-4. **incase any error arises while trying to run the application, use this**:
+4. **Incase any error arises while trying to run the application, use this**:
     Launch the application with:
     ```sh
     python -m streamlit run image-encryption-tool.py
